@@ -1,2 +1,3 @@
-# Dividers-_simple_Calcs
-just some noice calcs.
+ # Dividers: Simple Calcs
+ # just some quick maths
+ yes the memes
